@@ -23,6 +23,7 @@ knitr::opts_chunk$set(fig.width=8, fig.height=6)
 ```{r}
 data(mtcars)
 head(mtcars)
+tail(mtcars)
 summary(mtcars)
 ```
 
